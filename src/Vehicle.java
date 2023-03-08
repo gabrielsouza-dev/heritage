@@ -1,4 +1,4 @@
-//Exercise class 4 object-oriented programming with Java
+//Exercise class 4 - object-oriented programming with Java
 
 //Base class
 public class Vehicle {
