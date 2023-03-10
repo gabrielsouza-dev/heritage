@@ -1,3 +1,4 @@
+package exercise1;
 //Exercise class 4 - object-oriented programming with Java
 
 //Base class
